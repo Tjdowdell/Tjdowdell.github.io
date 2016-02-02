@@ -538,6 +538,36 @@ body{
 	margin-bottom:10px;
 	margin-top:-5px;
 }
+
+#mainContent2{	
+	width:100%;
+	float:left;
+    border: 1px solid #b40c00;
+	min-height: 500px;
+	background-color: #F6F6F6;
+	margin-bottom:10px;
+	margin-top:-5px;
+}
+
+#mainContent3{	
+	width:100%;
+	float:left;
+    border: 1px solid #b40c00;
+	min-height: 500px;
+	background-color: #F6F6F6;
+	margin-bottom:10px;
+	margin-top:-5px;
+}
+
+#mainContent4{	
+	width:100%;
+	float:left;
+    border: 1px solid #b40c00;
+	min-height: 500px;
+	background-color: #F6F6F6;
+	margin-bottom:10px;
+	margin-top:-5px;
+}
 .TextWrap {		
 	float: right;
     margin: 10px;
